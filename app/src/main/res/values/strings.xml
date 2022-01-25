@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">FishermanHandbook</string>
+    <string name="fish">Рыбы</string>
+    <string name="na">Наживки</string>
+    <string name="sna">Снасти</string>
+    <string name="history">Истории</string>
+    <string name="app_logo">Лого приложения</string>
+    <string name="app_label">Fisherman Handbook</string>
+</resources>
